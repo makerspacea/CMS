@@ -2,23 +2,23 @@
   {
     "view":1,
     "date":"2019-07-24 (Mi)",
-    "time":"19:17-22:00 or open end",
+    "time":"19:17-22:00",
     "titel":"Free Hacking",
     "details":"Bei dem Treffen kann jeder an seinem Projekt arbeiten, Fragen stellen und anderen helfen",
-    "link":"https://www.google.at"
   },
   {
     "view":1,
     "date":"2019-07-15 (Mo)",
-    "time":"19:17-22:00 or open end",
+    "time":"19:17-22:00",
     "titel":"Gruppenarbeit 3D-CAD Software für den 3D Druck",
     "details":"In einer Gruppenarbeit und freien Diskussion geht es um 3D-CAD Software. Welche Software gibt es. Wer hat Erfahrung mit welcher Software gemacht. Beispiele können hergezeigt werden. Vielleicht auch sogar ausgedruckte Exemplate."
   },
   {
     "view":1,
     "date":"2019-07-10 (Mi)",
-    "time":"19:17-22:00 or open end",
+    "time":"19:17-22:00,
     "titel":"Unity 3D First Steps",
-    "details":"Peter Soxberger makes a kind introduction to Unity 3D"
+    "details":"Peter Soxberger makes a kind introduction to Unity 3D",
+    "link":"https://www.instagram.com/p/Bzv-Dntoo3R"
   }
 ]
