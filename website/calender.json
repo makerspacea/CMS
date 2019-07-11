@@ -1,6 +1,21 @@
 [
   {
     "view":1,
+    "date":"2019-08-07 (Mi)",
+    "time":"19:17-22:00",
+    "titel":"Workshop GIT-Repository",
+    "details":"Hochstrasser Christoph zeigt, wie man GIT richtig umgeht.",
+    "link":"https://de.wikipedia.org/wiki/Git"
+  },
+  {
+    "view":1,
+    "date":"2019-07-29 (Mo)",
+    "time":"19:17-22:00",
+    "titel":"Vorschlag: Arduino Workshop - Analoge Signale",
+    "details":"Wenn es andere Wünsche gibt, einfach melden in der WhatsApp-Gruppe."
+  },
+  {
+    "view":1,
     "date":"2019-07-24 (Mi)",
     "time":"19:17-22:00",
     "titel":"Free Hacking",
