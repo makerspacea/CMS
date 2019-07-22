@@ -1,12 +1,12 @@
 [
   {
     "title":"Statuten MakerspaceA",
-    "icon":"fa-file-pdf",
+    "icon":"fa-file",
     "href":"https://github.com/makerspacea/CMS/raw/master/website/files/Statuten_MakerspaceA_20190620.pdf"
   },
   {
     "title":"Formular Vereinsanmeldung",
-    "icon":"fa-file-pdf",
+    "icon":"fa-file",
     "href":"https://github.com/makerspacea/CMS/raw/master/website/files/Formular_Vereinsanmeldung_20190722.pdf"
   }
 ]
