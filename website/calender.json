@@ -1,7 +1,13 @@
 [
   { "view":1,
+    "date":"2019-08-26",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Lötkurs",
+    "details":"Wir werden eine einfache Schaltung für den Arduino-Nano (RGB-Led und Temperatursensor) auf einer Lochrasterplatine aufbauen und in Betrieb nehmen. Wer einen Lötkolben und auch Lötzinn hat, einfach mitnehmen!!! Materialien für max. 10 Teilnehmer sind vorbereitet und werden ca. 5€ je Teilnehmer betragen."
+  },
+  { "view":1,
     "date":"2019-08-21 (Mi)",
-    "time":"19;17-22:00 für Mitglieder und Schnupperer",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Free Hacking",
     "details":"Titel sagt alles :-)"
   },
@@ -10,7 +16,7 @@
     "date":"2019-08-12 (Mo)",
     "time":"!!17:19!!-22:00 für Mitglieder und Schnupperer",
     "titel":"Workshop: Schweißen",
-    "details":"Hands-On Workshop für unterschiedliche Schweißverfahren. Vielleicht wird auch ein brauchbarer Gegenstand zusammengebrutzelt. Aufjedenfall ein Gewand mitnehmen, wo Brandlöcher egal sind :-). Anmeldung in Liste ist notwendig. Details über den Ort werden noch kurzfristig bekanntbegeben.",
+    "details":"Hands-On Workshop für unterschiedliche Schweißverfahren. Vielleicht wird auch ein brauchbarer Gegenstand zusammengebrutzelt. Aufjedenfall ein Gewand mitnehmen, wo Brandlöcher egal sind :-). Anmeldung in Liste ist notwendig. Details über den Ort werden noch kurzfristig bekanntgegeben.",
     "links":[["Anmeldeliste","https://docs.google.com/spreadsheets/d/1sgzNpQjLfmbh8Chyb2UkvR-gLK1Xy6idVaQHStZ2ilM/edit?usp=drivesdk"]]
   },
   {
