@@ -31,7 +31,7 @@
     "time":"19:17-22:00 öffentlich",
     "titel":"Workshop GIT-Repository",
     "details":"Hochstrasser Christoph zeigt, wie man mit GIT richtig umgeht.",
-    "links":[["Über GIT","https://de.wikipedia.org/wiki/Git"]]
+    "links":[["Präsentation","https://speakerdeck.com/hochchristoph/git-workshop-at-makerspace-a"],["Über GIT","https://de.wikipedia.org/wiki/Git"]]
   },
   {
     "view":1,
