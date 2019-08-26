@@ -12,7 +12,14 @@
     "details":"Start 1ter Vortrag ist 18:30. Wir nutzen diesen Termin, um am DevTreff #5 in der Remise teilzunehmen.",
     "links":[["Homepage","https://devtreff.io/"],["Facebook","https://www.facebook.com/events/1041442376243858/"],["Meetup","https://www.meetup.com/de-DE/devtreff-Amstetten/events/261521685/"]]
   },  
-  
+  { "view":1,
+    "date":"2019-08-26 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Lötkurs",
+    "details":"Wir werden eine einfache Schaltung für den Arduino-Nano (RGB-Led und Temperatursensor) auf einer Lochrasterplatine aufbauen und in Betrieb nehmen. Wer einen Lötkolben und auch Lötzinn hat, einfach mitnehmen!!! Materialien für max. 10 Teilnehmer sind vorbereitet und werden ca. 5€ je Teilnehmer betragen.",
+    "links":[["PDF-Anleitung","https://rawcdn.githack.com/makerspacea/CMS/b808f4e4b415345b1388625d36266658619496da/website/files/20190826-MakerSpaceA-LoetWorkshop.pdf"],
+            ["Arduino-Firmware","https://rawcdn.githack.com/makerspacea/CMS/b808f4e4b415345b1388625d36266658619496da/website/files/20190826-MakerSpaceA-LoetWorkshop-Firmware.zip"]]
+  },
   { "view":1,
     "date":"2019-08-21 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
