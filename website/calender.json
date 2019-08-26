@@ -19,7 +19,7 @@
     "details":"Wir werden eine einfache Schaltung für den Arduino-Nano (RGB-Led und Temperatursensor) auf einer Lochrasterplatine aufbauen und in Betrieb nehmen. Wer einen Lötkolben und auch Lötzinn hat, einfach mitnehmen!!! Materialien für max. 10 Teilnehmer sind vorbereitet und werden ca. 5€ je Teilnehmer betragen.",
     "links":[["PDF-Anleitung","https://rawcdn.githack.com/makerspacea/CMS/b808f4e4b415345b1388625d36266658619496da/website/files/20190826-MakerSpaceA-LoetWorkshop.pdf"],
             ["Arduino-Firmware","https://rawcdn.githack.com/makerspacea/CMS/b808f4e4b415345b1388625d36266658619496da/website/files/20190826-MakerSpaceA-LoetWorkshop-Firmware.zip"],
-            ['5"-Display Details',"https://learn.adafruit.com/adafruit-5-800x480-tft-hdmi-monitor-touchscreen-backpack/downloads"]]
+            ["5Zoll-Display Details","https://learn.adafruit.com/adafruit-5-800x480-tft-hdmi-monitor-touchscreen-backpack/downloads"]]
   },
   { "view":1,
     "date":"2019-08-21 (Mi)",
