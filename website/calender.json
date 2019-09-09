@@ -1,5 +1,29 @@
 [
   { "view":1,
+    "date":"2019-10-07 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Retro Gaming Session",
+    "details":"Gemeinsames Werkeln, Probieren und Spielen von Retro-Games."
+  },
+  { "view":1,
+    "date":"2019-10-02 (Mi)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Raspberry PI Setup Guide",
+    "details":"Thema wird die Inbetriebnahme eines Raspberry PIs."
+  },  
+  { "view":1,
+    "date":"2019-09-23 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Linux Basics",
+    "details":"Der Aufbau und die Grundlagen von Linux werden hergezeigt. Vortragende werden noch gesucht. Vielleicht auch mehrere."
+  },  
+  { "view":1,
+    "date":"2019-09-18 (Mi)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Free Hacking",
+    "details":"Gemeinsames Hacken an Projekten und dem MakerSpace"
+  },  
+  { "view":1,
     "date":"2019-09-09 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Grundlagen Schaltungsdesign I",
