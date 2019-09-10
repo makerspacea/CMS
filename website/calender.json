@@ -28,6 +28,7 @@
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Grundlagen Schaltungsdesign I",
     "details":"Grundlagen der Schaltungstechnik inkl. einfacher Rechenmethoden zur Auslegung von Spannungsteiler, Filter, Vorwiderstand,... Beispiele für Schaltungen mit dem Arduino"
+    "links":[["Schaltungstechnik I Folien", "https://github.com/makerspacea/CMS/raw/master/website/files/Schaltungstechnik%20I.pdf"]]
   },  
   { "view":1,
     "date":"2019-09-04 (Mi)",
