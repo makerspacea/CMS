@@ -10,10 +10,8 @@
 # GUI-Tools
  * GParted
  * Software (Aptitude)
- * 
  
 # Shell Scripts
-
   vi restartnetwork.sh
     #!/bin/bash
     service network-manager restart
@@ -24,11 +22,14 @@
 
 
 # Cron-Tabs
-
   [https://www.linuxwiki.de/crontab](https://www.linuxwiki.de/crontab)
   [https://crontab-generator.org/](https://crontab-generator.org)
   
   crontab -e
   
   m  h  dom  mon  dow  command
+
+# Sonstiges
+
+  /etc/fstab
   
