@@ -15,7 +15,8 @@
     "date":"2019-09-23 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Linux Basics",
-    "details":"Der Aufbau und die Grundlagen von Linux werden hergezeigt. Vortragende werden noch gesucht. Vielleicht auch mehrere."
+    "details":"Der Aufbau und die Grundlagen von Linux werden hergezeigt. Vortragende werden noch gesucht. Vielleicht auch mehrere.",
+    "links":[["Inhaltsübersicht und Links","https://github.com/makerspacea/CMS/blob/master/website/files/20190923-LinuxBasics.md"]]
   },  
   { "view":1,
     "date":"2019-09-18 (Mi)",
