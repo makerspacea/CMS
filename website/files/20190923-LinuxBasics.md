@@ -12,11 +12,20 @@
  * Software (Aptitude)
  
 # Shell Scripts
+  ```
   vi restartnetwork.sh
-    #!/bin/bash
-    service network-manager restart
- 
+  ```
+  
+  Inhalt der Datei:
+  ```
+  #!/bin/bash
+  service network-manager restart
+  ```
+  
+  Rechte zum Ausführen der Datei erteilen:
+  ```
   chmod +x 
+  ```
   
   Siehe [https://www.shellbefehle.de/befehle/chmod/](https://www.shellbefehle.de/befehle/chmod/)
 
