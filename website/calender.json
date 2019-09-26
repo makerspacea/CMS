@@ -1,16 +1,22 @@
 [
   { "view":1,
-    "date":"2019-10-07 (Mo)",
+    "date":"2019-10-16 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Retro Gaming Session",
-    "details":"Gemeinsames Werkeln, Probieren und Spielen von Retro-Games."
+    "details":"Gemeinsames Werkeln, Probieren und Spielen von Retro-Games. Jeder kann seinen alten Spielecomputer oder Konsole mitnehmen (Fernseher/Bildschirm und Verteiler dafür auch mitnehmen)."
+  },
+  { "view":1,
+    "date":"2019-10-07 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Raspberry PI Setup Guide",
+    "details":"Thema wird die Inbetriebnahme eines Raspberry PIs."
   },
   { "view":1,
     "date":"2019-10-02 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
-    "titel":"Raspberry PI Setup Guide",
-    "details":"Thema wird die Inbetriebnahme eines Raspberry PIs."
-  },  
+    "titel":"3D-Printer Unboxing (Termin eingeschoben!!!)",
+    "details":"Wir widmen uns der 3D-Drucker Lieferung von conrad.at und versuchen diese in Betrieb zu nehmen."
+  },
   { "view":1,
     "date":"2019-09-23 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
