@@ -1,5 +1,17 @@
 [
   { "view":1,
+    "date":"2019-10-30 (Mi)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Free Hacking (voraussichtlich)",
+    "details":"Gemeinsames Hacken an Projekten, am MakerSpace und netzwerkeln."
+  },  
+  { "view":1,
+    "date":"2019-10-21 (Mo)",
+    "time":"19:17-22:00 öffentlich",
+    "titel":"Free Hacking",
+    "details":"Gemeinsames Hacken an Projekten, am MakerSpace und netzwerkeln."
+  },  
+  { "view":1,
     "date":"2019-10-16 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Retro Gaming Session",
