@@ -2,8 +2,8 @@
   { "view":1,
     "date":"2019-10-30 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
-    "titel":"Free Hacking (voraussichtlich)",
-    "details":"Gemeinsames Hacken an Projekten, am MakerSpace und netzwerkeln."
+    "titel":"Vortrag - Von der Idee zum eigenen Produkt",
+    "details":"Geschäftsmodellentwicklung am Fallbeispiele der Non-Profit Organisation Makerspace Amstetten. Ein Votrag von Lukas P."
   },  
   { "view":1,
     "date":"2019-10-21 (Mo)",
@@ -21,7 +21,8 @@
     "date":"2019-10-07 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Raspberry PI Setup Guide",
-    "details":"Thema wird die Inbetriebnahme eines Raspberry PIs."
+    "details":"Thema wird die Inbetriebnahme eines Raspberry PIs.",
+    "links":[["Presentation PDF","https://rawcdn.githack.com/makerspacea/CMS/6babd1ea234b61a28814b328530c91fb493b1795/website/files/20191007_Ueberblick_Raspberry_Pi.pdf"]]
   },
   { "view":1,
     "date":"2019-10-02 (Mi)",
