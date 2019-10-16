@@ -1,15 +1,15 @@
 [
   { "view":1,
     "date":"2019-10-30 (Mi)",
-    "time":"19:17-22:00 für Mitglieder und Schnupperer",
-    "titel":"Vortrag - Von der Idee zum eigenen Produkt",
-    "details":"Geschäftsmodellentwicklung am Fallbeispiele der Non-Profit Organisation Makerspace Amstetten. Ein Votrag von Lukas P."
-  },  
-  { "view":1,
-    "date":"2019-10-21 (Mo)",
     "time":"19:17-22:00 öffentlich",
     "titel":"Free Hacking",
     "details":"Gemeinsames Hacken an Projekten, am MakerSpace und netzwerkeln."
+  },  
+  { "view":1,
+    "date":"2019-10-21 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Terminänderung!!! Vortrag - Von der Idee zum eigenen Produkt",
+    "details":"Geschäftsmodellentwicklung am Fallbeispiele der Non-Profit Organisation Makerspace Amstetten. Ein Votrag von Lukas P."
   },  
   { "view":1,
     "date":"2019-10-16 (Mi)",
