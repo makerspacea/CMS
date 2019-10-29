@@ -1,9 +1,15 @@
 [
   { "view":1,
-    "date":"2019-10-30 (Mi)",
+    "date":"2019-11-04 (Mo)",
     "time":"19:17-22:00 öffentlich",
     "titel":"Free Hacking",
-    "details":"Gemeinsames Hacken an Projekten, am MakerSpace und netzwerkeln."
+    "details":"Gemeinsames Hacken an Projekten und dem MakerSpace"
+  },
+  { "view":1,
+    "date":"2019-10-30 (Mi)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Änderung: Free Hacking => Raketenbau (Halle)",
+    "details":"Standortverlagerung!!! Raketenbau in der Halle bei Michael (Adresse auf Nachfrage in der WhatsApp-Gruppe)"
   },  
   { "view":1,
     "date":"2019-10-21 (Mo)",
