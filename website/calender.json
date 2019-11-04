@@ -8,16 +8,15 @@
   },
   { "view":1,
     "date":"2019-11-18 (Mo)",
-    "time":"19:17-22:00 öffentlich",
+    "time":"19:17-22:00 für Mitglieder und Schnuppere",
     "titel":"Free Hacking",
     "details":"Gemeinsames Hacken an Projekten und dem MakerSpace"
   },
   { "view":1,
     "date":"2019-11-13 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
-    "titel":"Der MakerSpace[A] IoT Cloud Service",
-    "details":"Präsentation und Hands-On Workshop des MakerSpace[A] IoT Cloud Services",
-    "links":[["IoT-Broker (GitHub)","https://github.com/weingaunity/iotb"]]
+    "titel":"Workshop zum Thema Pitching",
+    "details":"Ein Workshop von Lukas P."
   },
   { "view":1,
     "date":"2019-11-04 (Mo)",
