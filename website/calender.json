@@ -1,5 +1,17 @@
 [
   { "view":1,
+    "date":"2019-12-11 (Mi)",
+    "time":"19:17-22:00 öffentlich",
+    "titel":"Free Hacking",
+    "details":"Gemeinsames Hacken an Projekten und dem MakerSpace."
+  },
+  { "view":1,
+    "date":"2019-12-02 (Mo)",
+    "time":"19:17-22:00 öffentlich",
+    "titel":"Free Hacking",
+    "details":"Gemeinsames Hacken an Projekten und dem MakerSpace und Raketenstart Nachbesprechung"
+  },
+  { "view":1,
     "date":"2019-11-27 (Mi)",
     "time":"19:17-22:00 öffentlich",
     "titel":"Vortrag über Trello",
