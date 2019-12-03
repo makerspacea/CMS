@@ -1,5 +1,11 @@
 [
   { "view":1,
+    "date":"2019-12-16 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Oszilloskop Hands-On Workshop",
+    "details":"Im Workshop wird der Umgang mit einem Oszilloskop zum Messen von elektrischen Signalen gezeigt und anschließend hat jeder die Möglichkeit selber mit dem Oszilloskop zu üben."
+  },
+  { "view":1,
     "date":"2019-12-11 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Steuerungen mit Arduino",
