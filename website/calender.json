@@ -1,9 +1,9 @@
 [
   { "view":1,
     "date":"2019-12-11 (Mi)",
-    "time":"19:17-22:00 öffentlich",
-    "titel":"Free Hacking",
-    "details":"Gemeinsames Hacken an Projekten und dem MakerSpace."
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Steuerungen mit Arduino",
+    "details":"Ein Hands-On Workshop bei dem es um die Realisierung einfacher Steuerungen mit dem Arduino geht. Schwerpunkt ist eine saubere Programmierung in C/C++, Flankenauswertung und Hardwareabstraktion. Achtung: Die Arduino-Leiterplatte vom Löt-Workshop mitnehmen!!!!"
   },
   { "view":1,
     "date":"2019-12-02 (Mo)",
