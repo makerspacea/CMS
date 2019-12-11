@@ -3,14 +3,14 @@
     "date":"2019-12-16 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Oszilloskop Hands-On Workshop",
-    "details":"Im Workshop wird der Umgang mit einem Oszilloskop zum Messen von elektrischen Signalen gezeigt und anschließend hat jeder die Möglichkeit selber mit dem Oszilloskop zu üben.",
-    "links":[["ZIP","https://rawcdn.githack.com/makerspacea/CMS/0e4d6eb133eb6bcb203b67dee581bea4ad68a25b/website/files/ArduinoWS19.12.zip"]]
+    "details":"Im Workshop wird der Umgang mit einem Oszilloskop zum Messen von elektrischen Signalen gezeigt und anschließend hat jeder die Möglichkeit selber mit dem Oszilloskop zu üben."
   },
   { "view":1,
     "date":"2019-12-11 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Steuerungen mit Arduino",
-    "details":"Ein Hands-On Workshop bei dem es um die Realisierung einfacher Steuerungen mit dem Arduino geht. Schwerpunkt ist eine saubere Programmierung in C/C++, Flankenauswertung und Hardwareabstraktion. Achtung: Die Arduino-Leiterplatte vom Löt-Workshop, Laptop und Mini-USB-Kabel mitnehmen!!!!"
+    "details":"Ein Hands-On Workshop bei dem es um die Realisierung einfacher Steuerungen mit dem Arduino geht. Schwerpunkt ist eine saubere Programmierung in C/C++, Flankenauswertung und Hardwareabstraktion. Achtung: Die Arduino-Leiterplatte vom Löt-Workshop, Laptop und Mini-USB-Kabel mitnehmen!!!!",
+    "links":[["ZIP","https://rawcdn.githack.com/makerspacea/CMS/0e4d6eb133eb6bcb203b67dee581bea4ad68a25b/website/files/ArduinoWS19.12.zip"]]
   },
   { "view":1,
     "date":"2019-12-02 (Mo)",
