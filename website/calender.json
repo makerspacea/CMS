@@ -1,5 +1,17 @@
 [
   { "view":1,
+    "date":"2019-12-30 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"3D-CAD mit FreeCAD",
+    "details":"Einführung in FreeCAD und der Konstruktion eigener Modelle für den 3D-Druck."
+  },
+  { "view":1,
+    "date":"2019-12-25 (Mi)",
+    "time":"---",
+    "titel":"Geschlossen",
+    "details":"Kein Treffen. Freehacking unter dem Weichnachtsbaum ist angesagt."
+  },
+  { "view":1,
     "date":"2019-12-16 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Oszilloskop Hands-On Workshop",
