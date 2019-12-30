@@ -1,5 +1,17 @@
 [
   { "view":1,
+    "date":"2020-01-13 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"start.klar: Testing Business Ideas",
+    "details":"Workshop von Lukas P."
+  },
+  { "view":1,
+    "date":"2020-01-08 (Mi)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"3D-CAD mit Blender",
+    "details":"Einführung in Blender und der Konstruktion eigener Modelle für den 3D-Druck."
+  },
+  { "view":1,
     "date":"2019-12-30 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"3D-CAD mit FreeCAD",
