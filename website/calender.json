@@ -1,9 +1,21 @@
 [
   { "view":1,
-    "date":"2020-01-13 (Mo)",
+    "date":"2020-01-27 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"start.klar: Testing Business Ideas",
     "details":"Workshop von Lukas P."
+  },
+  { "view":1,
+    "date":"2020-01-22 (Mi)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Thema noch offen",
+    "details":""
+  },
+  { "view":1,
+    "date":"2020-01-13 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Free Hacking (Änderung!!!)",
+    "details":"Treffen, plaudern, Ideen austauschen"
   },
   { "view":1,
     "date":"2020-01-08 (Mi)",
