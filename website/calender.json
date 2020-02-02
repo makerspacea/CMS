@@ -1,6 +1,24 @@
 [
   { "view":1,
-    "date":"2020-02-05 (Mo)",
+    "date":"2020-02-24 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Jahreshauptversammlung",
+    "details":"Der MakerSpace[A] lädt alle seine Mitglieder und die es noch werden möchten herzlich zur Jahreshauptversammlung in das Sitzungszimmer der WerstattA ein. Neben den eigentlichen Themen der Generalversammlung (Bericht des Obmanns und des Kassiers, Entlastung des Vorstands usw.) sollen vor allem auch die Ziele für das Jahr 2020 definiert werden..."
+  }, 
+  { "view":1,
+    "date":"2020-02-19 (Mi)",
+    "time":"19:17-22:00 öffentlich",
+    "titel":"Mit MakerSpace[A] zum IoT Service",
+    "details":"Präsentation des IoT-Services vom MakerSpace[A], was die Mitglieder damit machen können, Funktionsumfang, Anwendungsfälle, Vergabe von Benutzerzugängen."
+  },  
+  { "view":1,
+    "date":"2020-02-10 (Mo)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"3D Drucker Einschulung",
+    "details":"3D Drucker Einschulung im MakerSpace[A]."
+  },  
+  { "view":1,
+    "date":"2020-02-05 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Nextcloud - Die private Cloud",
     "details":"Workshop von Roland Schuller."
