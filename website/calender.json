@@ -1,5 +1,11 @@
 [
   { "view":1,
+    "date":"2020-03-24 (Mi)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"IoT-Wifi Power Plug Workshop",
+    "details":"Bei diesem Workshop nehmen wir die Wifi-Steckdosen in Betrieb und steuern diese über den MakerSpace[A] IoT-Broker."
+  },
+  { "view":1,
     "date":"2020-02-24 (Mo)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Jahreshauptversammlung",
