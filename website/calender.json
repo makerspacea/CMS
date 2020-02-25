@@ -1,6 +1,18 @@
 [
+  { "view":0,
+    "date":"2020-05-13 (Mi)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Sponsoring",
+    "details":"..."
+  },
   { "view":1,
-    "date":"2020-03-24 (Mi)",
+    "date":"2020-03-09 (Mo)",
+    "time":"19:17-22:00 öffentlich",
+    "titel":"Maker Stammtisch",
+    "details":"Netzwerken und Themen rund um den MakerSpace[A]"
+  },
+  { "view":1,
+    "date":"2020-03-04 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"IoT-Wifi Power Plug Workshop",
     "details":"Bei diesem Workshop nehmen wir die Wifi-Steckdosen in Betrieb und steuern diese über den MakerSpace[A] IoT-Broker."
