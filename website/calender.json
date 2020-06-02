@@ -1,5 +1,11 @@
 [
-  { "view":0,
+  { "view":1,
+    "date":"2020-06-15 (Montag)",
+    "time":"19:17-22:00 für Mitglieder",
+    "titel":"Impulsvortrag - Investieren",
+    "details":"Günther wird einen Impulsvortrag zum Thema 'Investieren' machen. Für weitere Details, ob dieses auch online übertragen wird einfach in der Whats-App Gruppe (siehe unten) nachfragen."
+  },
+  { "view":1,
     "date":"2020-05-13 (Mi)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Sponsoring",
