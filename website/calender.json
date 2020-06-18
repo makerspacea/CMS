@@ -1,5 +1,12 @@
 [
   { "view":1,
+    "date":"2020-06-24 (Mittwoch)",
+    "time":"19:17-22:00 öffentlich",
+    "titel":"Vortrag: Inkscape und Vektorgrafik",
+    "details":"Wie kann ich mein Logo bauen oder vektorisieren? PDFs ändern?  Einfach Grafiken erstellen. Roland Schuller zeigt das Vektorgrafikprogramm Inkscape (OpenSource) und den Vorteil von Vektorgrafiken!",
+    "links":[["FB-Event","https://www.facebook.com/events/712257769588440/"],["Inkscape","https://inkscape.org/de/"]]
+  },
+  { "view":1,
     "date":"2020-06-15 (Montag)",
     "time":"19:17-22:00 für Mitglieder",
     "titel":"Impulsvortrag - Investieren",
