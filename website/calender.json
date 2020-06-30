@@ -1,5 +1,17 @@
 [
   { "view":1,
+    "date":"2020-07-08 (Mittwoch)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Lasercutter Einschulung",
+    "details":"Einschulung der Mitglieder in die Benutzung unseres neuen Lasercutters. Ideen und Materialien zum Schneiden mitnehmen!"
+  },
+  { "view":1,
+    "date":"2020-06-29 (Montag)",
+    "time":"19:17-22:00 für Mitglieder",
+    "titel":"Spontanes Treffen",
+    "details":"Gemeinsames werken am Makerspace."
+  },
+  { "view":1,
     "date":"2020-06-24 (Mittwoch)",
     "time":"19:17-22:00 öffentlich",
     "titel":"Vortrag: Inkscape und Vektorgrafik",
