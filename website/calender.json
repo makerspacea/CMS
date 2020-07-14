@@ -1,5 +1,17 @@
 [
   { "view":1,
+    "date":"2020-07-22 (Mittwoch)",
+    "time":"19:17-22:00 öffentlich",
+    "titel":"Maker Stammtisch",
+    "details":"Netzwerken und Themen rund um den MakerSpace[A], Arbeiten am Makerspace"
+  },
+  { "view":1,
+    "date":"2020-07-13 (Montag)",
+    "time":"19:17-22:00 für Mitglieder",
+    "titel":"Interviews und Arbeiten am Makerspace",
+    "details":"Diverse Arbeiten am Makerspace durchführen (neue Stromversorgug für den Kellerraum, Laser-Cutter Versuche) und Interviews der Mitglieder aufnehmen."
+  },
+  { "view":1,
     "date":"2020-07-08 (Mittwoch)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Lasercutter Einschulung",
