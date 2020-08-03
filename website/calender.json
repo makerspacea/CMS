@@ -1,5 +1,24 @@
 [
   { "view":1,
+    "date":"2020-08-10 (Montag)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"2D CAD mit LibreCAD",
+    "details":"2D Design von Plänen und Laser-Cutter Fertigungsdesigns.",
+    "links":[["LibreCAD Open Source 2D-CAD","https://librecad.org/"]]
+  },
+  { "view":1,
+    "date":"2020-08-05 (Mittwoch)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Fotografie Grundkurs",
+    "details":"Vom Auslöser bis zum JPEG. Roland Schuller EYE-Open erklärt wie die DSLR funkioniert, das Belichtungsdreieck bis zur Ausarbeitung des Fotos am PC. Hier lernt man, warum die Kamera Dinge so macht und warum manche Bilder nichts werden. Mit diesem Wissen wird Fotografieren noch einfacher."
+  },
+  { "view":1,
+    "date":"2020-07-27 (Montag)",
+    "time":"19:17-22:00 für Mitglieder",
+    "titel":"Free hacking",
+    "details":"Arbeit an Giveaway."
+  },
+  { "view":1,
     "date":"2020-07-22 (Mittwoch)",
     "time":"19:17-22:00 öffentlich",
     "titel":"Maker Stammtisch",
