@@ -1,4 +1,17 @@
-[
+[ 
+  { "view":1,
+    "date":"2020-08-19 (Mittwoch)",
+    "time":"19:17-22:00 öffentlich",
+    "titel":"Maker Stammtisch",
+    "details":"Netzwerken und Themen rund um den MakerSpace[A], Arbeiten am Makerspace"
+  },
+  { "view":1,
+    "date":"2020-08-12 (Mittwoch)",
+    "time":"18:30-22:00 für Mitglieder und Schnupperer",
+    "titel":"Fotowalk in Amstetten",
+    "details":"Makerspace Fotowalk: Rundgang durch Amstetten (Lost Places, Ybbs, Stadt zur Blauen Stunde) mit einem Fotografen. Tipps und Tricks und einfach ausprobieren. Knappe 4km, 18:15 Makerspace, Remise, Mühlbachweg runter zur Ybbs, entlang der Ybbs bis (Goldene Stunde - Abendlicht 19:40-20:30) zur Brücke. Über Stadthallenstraße - Pestalozzistraße zur Unterführung Schirmbach (Blaue Stunde 20:45 - 21:30) über Bahnhof wieder zurück. Fotoausarbeitung und Fotobesprechung wer will, nachher im Makerspace (eventuell Laptop mitnehmen).  Mitmachen kann jeder der einen funktionierenden Fotoapparat (DSLR, Kleinbildknipse, Handy), oder ähnliches besitzt.",
+    "links":[["FB-Veranstaltung","https://facebook.com/events/s/fotowalk-in-amstetten/764784104064833/?ti=as"]]
+  },
   { "view":1,
     "date":"2020-08-10 (Montag)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
