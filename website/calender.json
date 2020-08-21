@@ -1,5 +1,17 @@
 [ 
   { "view":1,
+    "date":"2020-09-02 (Mittwoch)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"(m)SLA 3D Druck",
+    "details":"Hier wird die 3D-Druck Technologie (m)SLA zum Thema des Treffens gemacht und in einem Vortrag vorgestellt."
+  },
+  { "view":1,
+    "date":"2020-08-24 (Montag)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Vortrag: Was ist die Cloud?",
+    "details":"Die Grundlagen von Cloud Computing werden behandelt und Beispiele mit der Microsoft Cloud gezeigt."
+  },
+  { "view":1,
     "date":"2020-08-19 (Mittwoch)",
     "time":"19:17-22:00 (geschlossene Gruppe)",
     "titel":"Foto-Walk Nachbearbeitung",
