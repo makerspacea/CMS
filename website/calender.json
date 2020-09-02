@@ -1,4 +1,10 @@
-[ 
+[
+  { "view":1,
+    "date":"2020-09-07 (Montag)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Workshop Videotechnik",
+    "details":"Schwerpunkte: Was ist ein Video, Container, Codecs, Qualität. Weiters wird der Videoeditor Openshot und der Videoconverter HandBrake vorgestellt."
+  },
   { "view":1,
     "date":"2020-09-02 (Mittwoch)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
