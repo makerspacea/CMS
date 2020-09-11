@@ -1,5 +1,12 @@
 [
   { "view":1,
+    "date":"2020-09-16 (Mittwoch)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Vortrag: 3D Drucker Eigenbau",
+    "details":"Es geht um einen Eigenbau Core XY 3D Drucker und was die Stolpersteine sind.",
+    "links":[["MajinFJS Technical Projects","https://majinfjs.bogspot.com"]]
+  },  
+  { "view":1,
     "date":"2020-09-07 (Montag)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Workshop Videotechnik",
