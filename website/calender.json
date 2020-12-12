@@ -1,5 +1,19 @@
 [
   { "view":1,
+    "date":"2020-12-21 (Montag)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"KiCad Grundlagen Schematic und PCB",
+    "details":"Online Vortrag/Workshop über Zoom (Meeting-ID: 948 1418 4714)",
+    "links":[["Link zum Zoom-Meeting","https://bit.ly/3gsSn22"]]
+  },
+  { "view":1,
+    "date":"2020-12-16 (Mittwoch)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Rechnungsprogramme für Selbstständige und KMUs",
+    "details":"Online Vortrag/Workshop über Zoom (Meeting-ID: 970 0877 8136)",
+    "links":[["Link zum Zoom-Meeting","https://bit.ly/39SCZuy"]]
+  },
+  { "view":1,
     "date":"2020-11-16 (Montag)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"MakerSpace Hacking VI",
