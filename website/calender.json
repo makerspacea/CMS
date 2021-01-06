@@ -1,5 +1,19 @@
 [
   { "view":1,
+    "date":"2021-01-25 (Montag)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Impulsvortrag zur FH Wieselburg",
+    "details":"Online Vortrag über Zoom (Meeting-ID: 978 4469 3534). DI Dr. Franz Theuretzbacher macht einen Impulsvortrag zur FH Wieselburg.",
+    "links":[["Link zum Zoom-Meeting","https://bit.ly/3rZ2JMn"]]
+  },
+  { "view":1,
+    "date":"2021-01-11 (Montag)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"Ressourceneffizientes Bauen mit Hilfe von 3D Druck",
+    "details":"Online Vortrag über Zoom (Meeting-ID: 914 0798 1582). Die Bauindustrie verbraucht rund 36% der gesamten Rohstoffressourcen und ist für 40% des Weltenergieverbrauchs verantwortlich. Zudem ist die Branche nach wie vor durch eine niedrige Produktivität gekennzeichnet. Neue digitale Planungs- und automatisierte Fertigungsmethoden weisen ein hohes Potential auf, um die Produktivität deutlich zu steigern und gleichzeitig den Ressourcenbedarf zu senken. Im Rahmen des Vortrags werden Ansätze zur digitalen Strukturoptimierung und automatisierten Herstellung von Bauteilen mit Hilfe von 3D Druck vorgestellt. Fokussiert wird einerseits auf die Herstellung von Betonträgern und andererseits auf komplexe Knoten zur Verbindung von freigeformten Stabwerkskuppeln aus biobasierten Kunststoffen. Vortragender: Univ.Prof. Dipl.-Ing. Dr.techn. Benjamin Kromoser B.Sc.",
+    "links":[["Link zum Zoom-Meeting","https://bit.ly/3pBY7K0"],["Über den Vortragenden","https://boku.ac.at/personen/person/C9C236EF10110E45"]]
+  },
+  { "view":1,
     "date":"2020-12-21 (Montag)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"KiCad Grundlagen Schematic und PCB",
