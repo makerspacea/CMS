@@ -1,5 +1,12 @@
 [
   { "view":1,
+    "date":"2021-03-31 (Mittwoch)",
+    "time":"19:17-22:00 für Mitglieder und Schnupperer",
+    "titel":"3D Zeichnen mit Blender",
+    "details":"Online Vortrag über Zoom (Meeting-ID: 986 9772 3836). Vom Hausplan zum 3D Modell.",
+    "links":[["Link zum Zoom-Meeting","https://zoom.us/j/98697723836?pwd=bkVCdUJ6aVNZV2JoQTJHNDZydjAvdz09&fbclid=IwAR0AmxI6BVj9Xwk2WN2-YpMhHSZqG-H-NUdxqVzp_MsdP6D58us9tjww3nw"]]
+  },
+  { "view":1,
     "date":"2021-01-25 (Montag)",
     "time":"19:17-22:00 für Mitglieder und Schnupperer",
     "titel":"Impulsvortrag zur FH Wieselburg",
